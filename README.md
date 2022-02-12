@@ -1,6 +1,5 @@
 # Algorithm Practice
 백준 실버 ~ 골드 랜덤으로 하루 한 문제 풀기
-- 7일 연속 맞추면 난이도 변경(실버->골드)
 - 틀린문제는 해당 알고리즘 블로그에 정리
 (https://hyunsooworld.tistory.com/)
 
